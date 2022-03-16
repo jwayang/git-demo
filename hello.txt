@@ -9,3 +9,5 @@ hello,world! hello,git!
 hello,world! hello,git!	master-modify2
 hello,world! hello,git!
 hello,world! hello,git! hot-fix-modify
+hello,world! hello,git!	hot-fix-modify
+hello,world! hello,git! hot-fix-modify
